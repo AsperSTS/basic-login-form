@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    margin: 0px
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(otaku.png);
+}
+.opcionesHorizontales{
+    background-color:black;
+    border-top:2px solid red;
+    color: white;
+    text-decoration: none;
+    float: left;
+    width: 33.33%;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.opcionesHorizontales:hover {
+    background-color: white;
+    color: black;
+}
+.menuHorizontal{
+    overflow: hidden;
+}
+.menuVertical {
+    overflow: hidden;
+    width: 15%;
+    float: left;
+}
+.opcionesVerticales,a {
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+
+.opcionesVerticales:hover {
+    background-color: white;
+    color: black;
+}
+.titulosVerticales {
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 25px;
+    text-align: left;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+}
+.titulosHorizontales {
+    background-color:black;
+    border-top:2px solid red;
+    color: white;
+    text-decoration: none;
+    float: left;
+    width: 33.33%;
+    text-align: left;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
