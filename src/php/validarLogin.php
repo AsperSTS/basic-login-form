@@ -20,7 +20,7 @@
 <html lang="en">
 <head>
     <title>Registro</title>
-    <link rel="stylesheet" href="maquetacionCompleto.css">
+    <link rel="stylesheet" href="../css/maquetacionCompleto.css">
 </head>
 <body>
     

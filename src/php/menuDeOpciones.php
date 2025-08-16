@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Menu De Opciones</title>
-    <link rel="stylesheet" href="maquetacionMenuDeOpciones.css">
+    <link rel="stylesheet" href="../css/maquetacionMenuDeOpciones.css">
 </head>
 <body>  
     <nav class="menuHorizontal">     
